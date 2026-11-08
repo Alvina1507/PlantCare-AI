@@ -1,0 +1,10 @@
+<CodeBlock language="text" editable>
+tensorflow==2.16.1
+tensorflow-datasets>=4.9.4
+streamlit>=1.36
+numpy<2
+pandas
+matplotlib
+scikit-learn
+pillow
+</CodeBlock>
